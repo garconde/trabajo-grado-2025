@@ -14,6 +14,8 @@ Este trabajo presenta el desarrollo de una herramienta web capaz de automatizar 
   `tesis-satisfaccion-usabilidad-analisis-sentimientos.pdf`
 - 📘 **Manual del usuario** (guía en PDF para el uso del sistema):  
   `manual-usuario-evaluador-usabilidad.pdf`
+- **Presentación** (Diapositiva para presentar el proyecto):
+  `Sustentación - Garcés Conde - 2025.pdf`
 
 ---
 
